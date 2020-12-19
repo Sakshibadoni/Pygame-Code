@@ -1,2 +1,2 @@
-# Pygame-Slither
-Pygame beginner
+# Pygame-Code
+Pygame beginner code for learners
